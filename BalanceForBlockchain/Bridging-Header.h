@@ -10,3 +10,4 @@
 #import "CCNStatusItem.h"
 #import "CertValidator.h"
 #import "ObjC.h"
+#import <CommonCrypto/CommonCrypto.h>
